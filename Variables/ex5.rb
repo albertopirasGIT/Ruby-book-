@@ -1,0 +1,1 @@
+#In the first case the program prints 4 and in the second case prints an error message which says that the variable x was not initialized
